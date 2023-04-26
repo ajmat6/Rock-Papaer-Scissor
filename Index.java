@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 
-public class CWH_20Rock_Paper_Scissor {
+public class Index {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random random = new Random();
